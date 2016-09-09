@@ -7,11 +7,11 @@
 
 # Site Settings
 locale                   : "en"
-title                    : "Site Title"
+title                    : "Shaheen NV"
 title_separator          : "-"
-name                     : "Your Name"
+name                     : "Shaheen"
 description              : "An amazing website."
-url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : "https://shaheennv.github.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
 teaser                   : # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
@@ -80,21 +80,21 @@ author:
   name             : "Your Name"
   avatar           : "bio-photo.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
-  email            :
+  location         : "Bangalore, India"
+  email            : "shaheennv@gmail.com"
   uri              :
   bitbucket        :
   codepen          :
   dribbble         :
   flickr           :
-  facebook         :
+  facebook         : "https://www.facebook.com/shaannv"
   foursquare       :
-  github           :
+  github           : "https://github.com/shaheennv/"
   google_plus      :
   keybase          :
-  instagram        :
+  instagram        : "https://www.instagram.com/shaheen.nv/"
   lastfm           :
-  linkedin         :
+  linkedin         : "https://in.linkedin.com/in/shaheen-nv-39205479"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
