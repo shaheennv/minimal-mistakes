@@ -32,7 +32,7 @@ h3{
 	text-align: center;
 }
 
-@media only screen and (min-width: 320px){
+@media only screen and (min-device-width: 320px) and (max-device-width: 425px){
 	.container{
 		width: 85%;
 		margin: auto;
@@ -48,13 +48,13 @@ h3{
 	}
 }
 
-@media only screen and (min-width: 426px){
+@media (min-device-width: 426px) and (max-device-width: 768px){
 
 	h1{
 		margin-bottom: 10px;
 	}
 	.intro_text{
-	font-size: 20px;
-    line-height: 40px;
+	font-size: 22px;
+    line-height: 50px;
 	}
 }
