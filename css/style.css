@@ -32,29 +32,28 @@ h3{
 	text-align: center;
 }
 
-@media only screen and (max-device-width: 425px){
-	.container{
-		width: 85%;
-		margin: auto;
-		margin-top: 100px;
-	}
+@media only screen and (max-width: 425px){
 	h1{
 		margin-bottom: 20px;
 	}
 	.intro_text{
-		font-size: 14px !important;
-	    line-height: 80px !important;
+		font-size: 15px !important;
+	    line-height: 25px !important;
 	    margin-bottom: 60px;
 	}
 }
 
-@media only screen and (max-device-width: 768px){
-
+@media only screen and (max-width: 768px){
+	.container{
+		width: 85%;
+		margin: auto;
+		margin-top: 60px;
+	}
 	h1{
 		margin-bottom: 10px;
 	}
 	.intro_text{
 	font-size: 22px;
-    line-height: 50px;
+    line-height: 40px;
 	}
 }
